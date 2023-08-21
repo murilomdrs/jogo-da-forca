@@ -6,6 +6,9 @@ const palavras = [
     "javascript",
     "ada",
     "santander",
+    "frontend",
+    "backend",
+    "caracteres"
   ];
   
   // Elementos do DOM
